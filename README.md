@@ -41,3 +41,5 @@ Columns in dataset:
 Note: mEDI calculations at 17:00 in the "dl" case were not possible (due to low daylight), so mEDI values were set to 0
 
 ![Procedure of the whole experiment](./Procedure.png)
+
+Dataset made by Gabriele Zoochi and supervised by Georgios Triantafyllidis in Lighting Design Lab AAU (https://www.light.aau.dk/)
