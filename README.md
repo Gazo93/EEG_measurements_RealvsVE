@@ -6,7 +6,9 @@ The experiment has been carried out in 5 days, testing 15 participants
 In total there are 1600 measurements and 1600 calculations with ALFA.
 
 Parameters include:
-- **Day &amp; Time**, 
+- **Day**, (Of the experiment)
+- **Participant**, 
+- **Environment**, (RE= Real Environment; VR= Virtual Environment)
 - **Daylight / Electrical lighting**,
 - **Direction of view**,
 - **Position (distance from window)**,
