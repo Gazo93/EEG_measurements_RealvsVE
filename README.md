@@ -2,8 +2,6 @@ Experiment from a Master Thesis Project, Decoding Emotions through EEG in Real a
 EEG measurements and mEDI detections using a spectrometer and ALFA simulations.
 The experiment has been carried out in 5 days, testing 15 participants
 
-In total there are 1600 measurements and 1600 calculations with ALFA.
-
 Parameters include:
 - **Day**,
 - **Participant**, 
