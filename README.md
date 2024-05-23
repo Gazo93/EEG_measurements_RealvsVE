@@ -16,7 +16,7 @@ Parameters include:
 - **β ALPHA AVG**, 
 - **γ ALPHA AVG**,
 - **AROUSAL α**,
-- **AROUSA β**,
+- **AROUSAL β**,
 - **VALENCE γ**.
 
 VR headset used: Oculus Quest 2; itfeatures a high-resolution screen with two separate displays with a refresh rate of 90Hz
@@ -29,7 +29,13 @@ Columns in dataset:
 - LIGHT: Condition tested: DL = Daylight / DL+EL = Electrical lighting
 - SCENARIO: CONT=Control phase; EXP=Experiencing the room; ACT=Performing an activity
 - SKY CONDITION: Sky type during the measurement - An approximation of the same sky type was used in ALFA
-- mEDI: RE = detected with spectrometer; VR = measured with ALFA
+- mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
+        RE = detected with spectrometer; VR = measured with ALFA
 - α ALPHA AVG: Average band frequencies from EEG headset for alpha waves
 - β ALPHA AVG: Average band frequencies from EEG headset for beta-low waves
 - γ ALPHA AVG: Average band frequencies from EEG headset for gamma waves
+- AROUSAL α: If alpha decreases, Arousal Increases
+- AROUSAL β: If beta-low decreases, Arousal Increases
+- VALENCE γ: If gamma decreases, Increases in High Valence ; If gamma increases, Decrease in Low Valence 
+
+Note: mEDI calculations at 17:00 in the "dl" case were not possible (due to low daylight), so mEDI values were set to 0
