@@ -9,7 +9,10 @@ Parameters include:
 - **Day**, (Of the experiment)
 - **Participant**, 
 - **Environment**, (RE= Real Environment; VR= Virtual Environment)
-- **Daylight / Electrical lighting**,
-- **Direction of view**,
-- **Position (distance from window)**,
-- **Sky Type**.
+- **Light**, (Condition tested: DL=Daylight / DL+ELElectrical lighting)
+- **Scenario**, (CONT=Control phase; EXP=Experiencing the room; ACT=Performing an activity)
+- **Sky Condition**,
+- **mEDI**,
+- **α ALPHA AVG**, Average band frequencies from EEG headset for alpha waves
+- **β ALPHA AVG**, Average band frequencies from EEG headset for beta-low waves
+- **γ ALPHA AVG**, Average band frequencies from EEG headset for gamma waves
