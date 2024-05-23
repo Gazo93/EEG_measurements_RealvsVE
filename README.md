@@ -38,4 +38,6 @@ Columns in dataset:
 - AROUSAL β: If beta-low decreases, Arousal Increases
 - VALENCE γ: If gamma decreases, Increases in High Valence ; If gamma increases, Decrease in Low Valence 
 
+Procedure of the whole experiment
+
 Note: mEDI calculations at 17:00 in the "dl" case were not possible (due to low daylight), so mEDI values were set to 0
