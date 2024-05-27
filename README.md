@@ -16,9 +16,9 @@ Parameters include:
 - **β ALPHA AVG**, 
 - **γ ALPHA AVG**,
 
-Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane)
-VR headset used: Oculus Quest 2; itfeatures a high-resolution screen with two separate displays with a refresh rate of 90Hz
-EEG headset used: Unicorn Hybrid Black; It acquire eight electrodes of complete 8-channel EEG,, sampled with 24 bits and 250 Hz
+Spectrometer used: GL SPECTIS 1.0 Touch + Flicker (mEDI was measured 120cm above the floor on a vertical plane),
+VR headset used: Oculus Quest 2; itfeatures a high-resolution screen with two separate displays with a refresh rate of 90Hz,
+EEG headset used: Unicorn Hybrid Black; It acquire eight electrodes of complete 8-channel EEG,, sampled with 24 bits and 250 Hz.
 
 Columns in dataset:
 - DAY: Values 1 to 5
