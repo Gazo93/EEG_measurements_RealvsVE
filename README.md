@@ -25,7 +25,12 @@ Columns in dataset:
 - PARTICIPANT: 1 to 15
 - ENVIRONMENT: RE= Real Environment; VR= Virtual Environment
 - LIGHT: Condition tested: DL = Daylight / DL+EL = Electrical lighting
-- SCENARIO: CONT=Control phase; EXP=Experiencing the room; ACT=Performing an activity
+- SCENARIO: **CONT**=Control phase; 
+            A brief phase before each testing condition, 30 sec long where the participants, both in the Real Environm. and in the recreated virtual environ., faced the back wall and had to stare at a black paper with a white-cross for establishing a baseline for 
+            EEG signals, minimizing External Stimuli and to reduce distractions.
+            **EXP**=Experiencing the room; The first part of the experiment where, for a 1 minute period the EEG was recording the participant, who freely, while always remained seated, explored the room in the two condition of light (DL and DL+EL); This was done 
+            in order of making an assessment of Visual Perception, visual comfort, analyzing cognitive load and attention under different lighting conditions and lastly, get the emotional and psychological responses.
+            **ACT**=Performing an activity
 - SKY CONDITION: Sky type during the measurement - An approximation of the same sky type was used in ALFA
 - mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
         RE = detected with spectrometer; VR = measured with ALFA
