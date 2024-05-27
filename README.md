@@ -13,9 +13,6 @@ Parameters include:
 - **α ALPHA AVG**, 
 - **β ALPHA AVG**, 
 - **γ ALPHA AVG**,
-- **AROUSAL α**,
-- **AROUSAL β**,
-- **VALENCE γ**.
 
 VR headset used: Oculus Quest 2; itfeatures a high-resolution screen with two separate displays with a refresh rate of 90Hz
 EEG headset used: Unicorn Hybrid Black; It acquire eight electrodes of complete 8-channel EEG,, sampled with 24 bits and 250 Hz
