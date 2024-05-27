@@ -31,7 +31,9 @@ Columns in dataset:
 **ACT**=Performing an activity;
        The second stage of the experiment consisting of participants being recorded performing a task of sorting cards numbered from 1 to 9 in increasing and decreasing order; This was done to assess the cognitive load and executive function, the attention and 
        Concentration and the motor activity, to understand the neural correlates of motor planning and execution.
-- SKY CONDITION: Sky type during the measurement - An approximation of the same sky type was used in ALFA
+- SKY CONDITION: 
+* Lower letters: Sky type during the measurement, derived from the CIE 15 type of skies ("Spatial Distribution of Daylight" – CIE Standard General Sky, ISO 15469:2004(E)/CIE S 011/E:2003 - https://cie.co.at/publications/spatial-distribution-daylight-cie-standard-general-sky) 
+** An approximation of the same sky type was used in ALFA with the available sky conditions (Clear sky, Hazy, Overcast and Heavy rain)
 - mEDI: the calculated value of melanopic Equivalent Daylight Illuminance using ALFA simulation
         RE = detected with spectrometer; VR = measured with ALFA
 - α ALPHA AVG: Average band frequencies from EEG headset for alpha waves
