@@ -5,7 +5,7 @@ The experiment has been carried out in 5 days, testing 15 participants
 Parameters include:
 - **Day**,
 - **Participant**, 
-- **Hour**,
+- **Phase of the day**,
 - **Environment**, 
 - **Light**, 
 - **Scenario**, 
@@ -23,7 +23,7 @@ EEG headset used: Unicorn Hybrid Black; It acquire eight electrodes of complete 
 Columns in dataset:
 - DAY: Values 1 to 5
 - PARTICIPANT: 1 to 15
-- HOUR: Time monitored for the different phases of the experiment
+- PHASE OF THE DAY: Time monitored for the different phases of the experiment
 - ENVIRONMENT: RE= Real Environment; VR= Virtual Environment
 - LIGHT: Condition tested: DL = Daylight / DL+EL = Electrical lighting
 - SCENARIO: 
