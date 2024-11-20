@@ -15,6 +15,7 @@ Parameters include:
 - **α ALPHA AVG**, 
 - **β ALPHA AVG**, 
 - **γ ALPHA AVG**,
+- **F2 electrode α ALPHA AVG**,
 - **F3 electrode α ALPHA AVG**,
 - **F4 electrode α ALPHA AVG**,
 - **F7 electrode α ALPHA AVG**,
@@ -48,10 +49,11 @@ Columns in the dataset:
 - α ALPHA AVG: Average band frequencies from EEG headset for alpha waves
 - β ALPHA AVG: Average band frequencies from EEG headset for beta-low waves
 - γ ALPHA AVG: Average band frequencies from EEG headset for gamma waves
-- F3 α ALPHA AVG: Average band frequencies from Channel 3 (Fz Frontal sagittal plane) for alpha waves
-- F4 α ALPHA AVG: Average band frequencies from Channel 4 (C4 central) EEG headset for alpha waves
-- F7 α ALPHA AVG: Average band frequencies from Channel 7 (Oz occipital zero) EEG headset for alpha waves
-- F8 α ALPHA AVG: Average band frequencies from Channel 8 (PO8 parietal-occipital) EEG headset for alpha waves
+- F2 α ALPHA AVG: Average band frequencies from Channel 2 (Fz Frontal central left) for alpha waves
+- F3 α ALPHA AVG: Average band frequencies from Channel 3 (Fz Frontal midline sagittal plane) for alpha waves
+- F4 α ALPHA AVG: Average band frequencies from Channel 4 (C4 central right) EEG headset for alpha waves
+- F7 α ALPHA AVG: Average band frequencies from Channel 7 (Oz occipital midline zero) EEG headset for alpha waves
+- F8 α ALPHA AVG: Average band frequencies from Channel 8 (PO8 parieto-occipital right) EEG headset for alpha waves
 
 
 Note: mEDI calculations at 17:00 in the "DLl" case were not possible (due to low daylight), so mEDI values were set to 0
